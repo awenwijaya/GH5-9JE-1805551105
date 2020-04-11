@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mata Kuliah Semester 4</string>
+
+    <string-array name="matkul_smt4">
+        <item>Analisis Desain Sistem</item>
+        <item>Integrasi dan Migrasi Sistem</item>
+        <item>Isu dan Proteksi TI</item>
+        <item>IT Service Management</item>
+        <item>Kecerdasan Tiruan</item>
+        <item>Pemrograman Mobile</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Learn how to properly design a system</item>
+        <item>Learn about how the data integrates and migrate</item>
+        <item>Learn about security</item>
+        <item>Learn about services</item>
+        <item>Learn about Artificial Intelligence</item>
+        <item>Learn about how to make an Android Apps</item>
+    </string-array>
+</resources>
